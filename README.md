@@ -180,9 +180,9 @@ public class MainActivity extends AppCompatActivity {
 ```
 ## OUTPUT:
 
-![image](https://github.com/VIKASHAR/sendsms/assets/119405655/109a50c3-b651-4c05-9fdd-e6d1ff79fc0c)
+![Screenshot 2024-05-07 182354](https://github.com/VIKASHAR/sendsms/assets/119405655/1ecbb9d6-3865-4475-b922-0d20d88f7ac3)
+![Screenshot 2024-05-07 182407](https://github.com/VIKASHAR/sendsms/assets/119405655/98174be1-008c-47d7-8fe4-9a6a46d3f528)
 
-![image](https://github.com/VIKASHAR/sendsms/assets/119405655/4f370598-fe14-49bd-ae53-af12d4fa486a)
 
 
 
